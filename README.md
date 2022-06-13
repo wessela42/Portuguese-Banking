@@ -16,4 +16,4 @@ All businesses use data to determine marketing decisions. Financial institutions
   This presentation summarizes the data wrangling, EDA, modeling, and conclusions for this project.
   
 3. Jupyter Notebook
-  * [Portuguese Data Notebook](https://github.com/wessela42/Portuguese-Banking/blob/main/Portuguese_Banking_Project.ipynb)
+  * [Portuguese Data Notebook](https://nbviewer.org/github/wessela42/Portuguese-Banking/blob/5e214ddb2e2fed5a0b6697d49e2f548256336ccf/Portuguese_Banking_Project.ipynb)
